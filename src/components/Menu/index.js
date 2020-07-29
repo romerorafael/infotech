@@ -12,7 +12,7 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="Logo da InfoTech"/>
             </Link>
 
-            <Button as={Link} className="Buttonlink" to="/cadastro/video">
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo Video
             </Button>
             
