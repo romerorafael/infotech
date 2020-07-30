@@ -1,0 +1,22 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome":"Front End",
+            "descricao":"Bacanudissimo",
+            "cor":"#ededed"
+        },
+        {
+            "id": 2,
+            "nome":"Back End",
+            "descricao":"Bacanuda",
+            "cor":"#000"
+        }, 
+        {
+            "id": 3,
+            "nome":"Mid End",
+            "descricao":"Bacanudissimo",
+            "cor":"#ddd"
+        }
+    ]
+}
